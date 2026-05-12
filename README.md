@@ -14,4 +14,4 @@
 - `dataset_calorizer.py` — подготовка данных
 - `utils_calorizer.py` — модель и train pipeline
 - `Sprint_4_notebook.ipynb` — обучение и эксперименты
-- - (ноутбук)[Sprint4_project/Sprint_4_project/Sprint_4_notebook.ipynb] проекта
+- `Sprint_4_notebook.ipynb` - [Ноутбук проекта](Sprint4_project/Sprint_4_project/Sprint_4_notebook.ipynb)
